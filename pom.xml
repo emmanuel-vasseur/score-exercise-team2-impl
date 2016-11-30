@@ -16,4 +16,18 @@
 		</dependency>
 	</dependencies>
 
+	<repositories>
+		<repository>
+			<id>soft</id>
+			<url>http://softcu-nexus.si.francetelecom.fr/nexus/content/groups/public</url>
+		</repository>
+	</repositories>
+
+	<pluginRepositories>
+		<pluginRepository>
+			<id>soft</id>
+			<url>http://softcu-nexus.si.francetelecom.fr/nexus/content/groups/public</url>
+		</pluginRepository>
+	</pluginRepositories>
+
 </project>
